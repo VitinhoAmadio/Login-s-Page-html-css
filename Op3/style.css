@@ -29,14 +29,14 @@ body {
   flex-direction: column;
   padding: 3rem 5rem;
   border-radius: 2em;
-  background-color: rgba(0, 0, 0, .65);
+  background-color: rgba(0, 0, 0, 0.65);
   box-shadow: rgba(0, 0, 0, 0.56) 0px 30px 80px 4px;
   width: 30rem;
 }
 
 .title {
-   color: #d90404;
-   opacity: .75;
+  color: #f23d3d;
+  opacity: 0.75;
   text-align: center;
   margin: 1rem;
   margin-bottom: 5rem;
